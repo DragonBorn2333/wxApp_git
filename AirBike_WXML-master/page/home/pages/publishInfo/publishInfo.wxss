@@ -1,0 +1,5 @@
+@import "../../../common/lib/weui.wxss";
+.publishInfoItem{
+  margin-top: 50rpx;
+
+}

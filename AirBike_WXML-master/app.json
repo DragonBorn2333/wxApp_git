@@ -1,0 +1,28 @@
+{
+  "pages":[
+    "page/home/pages/index/index",
+    "page/home/pages/publishInfo/publishInfo",
+    
+    
+   
+    "page/info/pages/register/register",
+    "page/home/pages/publish/publish",
+    "page/home/pages/button/button",
+    "page/info/pages/information/information"
+    
+  ],
+  "window":{
+    "navigationBarTitleText": "牧信互联",
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#1874CD",
+    "navigationBarTextStyle":"black"
+    
+  },
+
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 10000,
+    "uploadFile": 10000,
+    "downloadFile": 10000
+  }
+}

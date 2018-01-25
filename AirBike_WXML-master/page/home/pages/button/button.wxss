@@ -1,0 +1,24 @@
+
+@import "../../../common/lib/weui.wxss";
+.button-sp-area{
+    margin: 0 auto;
+    padding-top: 15px;
+    width: 90%;
+}
+ .img-sp-area{
+    margin: 0 auto;
+    width: 100%;
+   
+    height:30%;
+  
+} 
+.img{
+    width: 100%;
+    height:100%;
+}
+.mini-btn{
+    margin-right: 5px;
+}
+.weui-footer{
+    margin-top: 30px;
+}

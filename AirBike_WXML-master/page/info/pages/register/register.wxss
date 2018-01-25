@@ -1,0 +1,37 @@
+/* page/component/pages/register/register.wxss */
+
+
+@import "../../../common/lib/weui.wxss";
+
+.picker{
+  padding: 19rpx 26rpx;
+  background-color: #FFFFFF;
+}
+
+
+.saveBtn{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 100rpx;
+}
+
+
+.msg-code{
+  width: 100%;
+  height: 50rpx;
+  background-color: #535353;
+  font-size: 25rpx;
+  color: #F8F8F8;
+  text-align:center;
+  line-height: 50rpx;
+}
+
+.msg-code-none{
+  width: 100%;
+  height: 50rpx;
+  background-color: #F8F8F8;
+  font-size: 25rpx;
+  color: #F8F8F8;
+  text-align:center;
+  line-height: 50rpx;
+}

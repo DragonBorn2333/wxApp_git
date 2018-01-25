@@ -1,0 +1,23 @@
+/**app.wxss**/
+ .homepage {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-color: #F8F8F8;
+} 
+
+
+
+/* 微信demo提供的样式 */
+page {
+  background-color: #F8F8F8;
+  height: 100%;
+  font-size: 32rpx;
+  line-height: 1.6;
+}
+
+.page-body {
+  width: 100%;
+  flex-grow: 1;
+  overflow-x: hidden;
+}

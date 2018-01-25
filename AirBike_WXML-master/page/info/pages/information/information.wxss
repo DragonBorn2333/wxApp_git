@@ -1,0 +1,27 @@
+@import "../../../common/lib/weui.wxss";
+
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1874CD;
+  margin-bottom: 50rpx;
+  bottom:0;
+  border-bottom:1rpx solid #d9d9d9;
+
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+ 
+  margin-top:40rpx;
+  margin-bottom: 20rpx;
+
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #fff;
+  margin-bottom: 30rpx;
+}
